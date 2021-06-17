@@ -1,2 +1,4 @@
-hi
-how are you
+
+
+#!/bin/sh
+echo "Hello world"
